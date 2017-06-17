@@ -1,0 +1,15 @@
+{
+    "extends": ["tslint-react"],
+    "rules": {
+        "no-console": [
+            true,
+            "log",
+            "error",
+            "debug",
+            "info",
+            "time",
+            "timeEnd",
+            "trace"
+        ]
+    }
+}
